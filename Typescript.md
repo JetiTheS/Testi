@@ -47,3 +47,12 @@ const getColorForDifficulty = (difficulty: string): TextStyle => {
 Kirjoittamaan Markdown tiedoston syntaxeja.
 
 </details>
+
+
+Loppuun vielä linkkejä mitä käytin
+
+[LeetCode](https://leetcode.com/problemset/javascript/)
+
+[Beatrunner](https://github.com/Ohjelmistoprojekti-2-BeatRunner/BeatRunner/tree/main)
+
+[TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
